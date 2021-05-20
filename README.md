@@ -7,7 +7,7 @@ Live Demo: https://main.d2ndtw6zu0eqpp.amplifyapp.com/
 
 ## Features or Example
 
-Users allow to search the book information when cliked search button. Users allow to see Cover imagem, Title, Publisher, Description, Categories and so on.
+Users allow to search the book information when cliked search button. Users allow to see Cover image, Title, Publisher, Description, Categories and so on.
 
 ## Motivation
 
