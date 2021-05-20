@@ -18,7 +18,7 @@ The Search Book Finder helps people to search books and desplay information of s
 Provide code examples and explanations of how to get the project, e.g.,
 
     git clone https://github.com/SihanCai/SearchBookFinder.git
-    cd SearchBookFinder
+    cd  SearchBookFinder
     npm install
     npm start
 
