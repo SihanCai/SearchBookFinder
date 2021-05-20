@@ -2,7 +2,7 @@
 
 Search Book Finder is a react web app  which utilizes Google Books API that lets you search for books and display information of searching books.
 
-Live Demo: 
+Live Demo: https://main.d2ndtw6zu0eqpp.amplifyapp.com/
 
 
 ## Features or Example
